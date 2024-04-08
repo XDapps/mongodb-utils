@@ -1,4 +1,4 @@
-# ERC Token Utils
+# MongoDB Utils
 
 This is a basic wrapper around the MongoDB SDK with some simple static functions to interact with a Mongo Database.
 
