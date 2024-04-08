@@ -1,0 +1,22 @@
+{
+  "name": "@xdapps/mongodb-utils",
+  "version": "1.0.0",
+  "description": "Basic wrapper around MongoDb SDK to simplify common operations",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "types": "lib",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "author": "XDev",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.5.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.4"
+  }
+}
