@@ -1,6 +1,6 @@
 {
   "name": "@xdapps/mongodb-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic wrapper around MongoDb SDK to simplify common operations",
   "main": "index.js",
   "scripts": {
