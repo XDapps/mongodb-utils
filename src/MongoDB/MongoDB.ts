@@ -1,4 +1,6 @@
 import { Db, MongoClient, SortDirection } from "mongodb";
+import { config } from "dotenv";
+config();
 
 export class MongoDB {
 	databaseName: string;
