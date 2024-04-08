@@ -7,10 +7,6 @@
     "build": "tsc -p ."
   },
   "types": "lib",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com",
-    "access": "public"
-  },
   "author": "XDev",
   "license": "ISC",
   "dependencies": {
